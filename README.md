@@ -50,3 +50,6 @@ Wir würden uns wünschen, dass im Rahmen des 5. BMDV DataRun Anwendungen entwic
 - Größte Komplexität
 - Best Overall?
 
+### Mögliche Kombination
+- Salinität, Temperatur, O2 Sättigung
+- Wellenhöhe, Wind, Strömung, Luftdruck
